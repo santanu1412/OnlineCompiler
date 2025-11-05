@@ -1,5 +1,5 @@
 # Project-25
-This Is My First Project.
+This Project is based on my skills.
 <br>
-Author - Santanu Singh
+Author - Santanu Raj
 
